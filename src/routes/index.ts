@@ -1,0 +1,11 @@
+export { default as Auth } from './Auth';
+export { default as Home } from './Home';
+export { default as UserProfile } from './UserProfile';
+export { default as B2CAccounts } from './B2CAccounts';
+export { default as BillingManagement } from './BillingManagement';
+export { default as ServiceAppointment } from './ServiceAppointment';
+export { default as OrderProcessing } from './OrderProcessing';
+export { default as AssetManagement } from './AssetManagement';
+export { default as UserProfileEdit } from './UserProfileEdit';
+export { default as B2BCatalog } from './B2BCatalog';
+export { default as B2BSubscriptions } from './B2BSubscriptions';
